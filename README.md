@@ -1,4 +1,4 @@
-# Clasificacion-de-imagenes-para-Agricultura
+# Clasificacion-de-imagenes-para-Agricultura 🌱
 Este proyecto tiene como objetivo desarrollar un modelo de clasificación para la segmentación semántica de imágenes aéreas en el contexto agrícola. El problema principal que resuelve es la identificación y clasificación automática de diferentes tipos de cobertura y uso del suelo (clases de tierra) a partir de imágenes, lo cual es fundamental para el monitoreo de cultivos, gestión de recursos hídricos, planificación del uso del suelo y agricultura de precisión. Se entrena un clasificador de Regresión Logística para predecir la clase de cada píxel, creando una máscara de segmentación.
 
 
