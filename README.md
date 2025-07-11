@@ -38,6 +38,9 @@ Este codigo realiza una serie de pasos para clasificar píxeles de imágenes agr
  4. Entrenamiento y Evaluación del Clasificador: se entrena un modelo de Regresión Logística utilizando los valores RGB de la imagen original como características para predecir la clase HEX.
  5. Segmentación de Imagen de Prueba y Visualización: finalmente, el modelo entrenado se utiliza para predecir la clase de píxeles en una nueva imagen de prueba.
 
+## NOTA ⚠️
+Este proyecto tiene 2 métodos por los cuales se puede compilar, depende de donde y como se quiera evaluar; esto recae en la obtención de la base datos, una considera un acceso mediante Jupyter Notebook (o parecidos) y otra en consultas tradicionales para usar en scripts.
+Se adjuntan los dos archivos para probar, la version 2 es el codigo con el metodo manual para consultar las bases de datos.
 
 ## Contribuciones 🖨️
 Si te interesa contribuir a este proyecto o usarlo independiente, considera:
