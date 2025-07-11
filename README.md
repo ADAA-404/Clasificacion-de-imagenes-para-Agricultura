@@ -30,7 +30,7 @@ pip install skillsnetwork
 
 En el codigo se utiliza un comando 'await skillsnetwork.prepare(...)' que descarga y descomprime el conjunto de datos de imágenes. Este comando debe ejecutarse en un entorno que soporte 'await' (como un Jupyter Notebook o IPython).
 
-## Ejemplos de uso 📎
+## Ejemplo de uso 📎
 Este codigo realiza una serie de pasos para clasificar píxeles de imágenes agrícolas, siguiendo este flujo de ejecución:
  1. Descarga y Carga de Datos de Imagen: se comienza descargando un conjunto de datos (usamos IBM Cloud para este caso) donde la función 'get_data' procesa los archivos 'classes.json' y carga las imágenes.
  2. Creación del Conjunto de Datos (DataSet): la función create_DataSet transforma las imágenes y sus máscaras en un DataFrame de pandas, cada fila representa un píxel con sus respectivas propiedades.
