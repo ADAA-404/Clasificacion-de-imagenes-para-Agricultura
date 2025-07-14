@@ -49,5 +49,8 @@ Si te interesa contribuir a este proyecto o usarlo independiente, considera:
 - Abrir un "Pull Request".
 
 
+[English Version](README.en.md)
+
+
 ## Licencia 📜
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE (si aplica) para más detalles.
