@@ -18,8 +18,6 @@ Este proyecto tiene como objetivo desarrollar un modelo de clasificación para l
 
 ## Consideraciones en Instalación ⚙️
 Para configurar y ejecutar el proyecto, necesitas algunas librerías de Python que son importantes instalarlas en el entorno a usar; en este caso se usa 'conda'
-conda create -n agricultural_ml python=3.9
-conda activate agricultural_ml
 
 conda install -y matplotlib scikit-learn seaborn pandas numpy pillow
 
